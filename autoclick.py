@@ -1,4 +1,3 @@
-#https://github.com/Apsis/Synthetic-Programming/blob/master/AutoClicker/main.py
 import time
 import threading
 from pynput.mouse import Button, Controller
